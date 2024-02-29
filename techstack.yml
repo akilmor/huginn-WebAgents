@@ -2,7 +2,7 @@ repo_name: akilmor/huginn-WebAgents
 report_id: ded6883a35b36790b094b28946fbee54
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-14T01:53:04+00:00'
+timestamp: '2024-02-29T19:25:18+00:00'
 requested_by: alexcochran
 provider: github
 branch: master
@@ -151,7 +151,7 @@ tools:
   last_updated_by: Akinori MUSHA
   last_updated_on: 2016-01-05 07:19:27.000000000 Z
 - name: Bundler
-  description: 'A consistent environment for tracking and installing  gems and versions '
+  description: A consistent environment for tracking and installing  gems and versions
   website_url: http://bundler.io
   open_source: false
   hosted_saas: false
@@ -1159,6 +1159,13 @@ tools:
   detection_source: Gemfile
   last_updated_by: Dominik Sander
   last_updated_on: 2020-02-29 12:55:42.000000000 Z
+  vulnerabilities:
+  - name: Nokogiri update packaged libxml2 to v2.12.5 to resolve CVE-2024-25062
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-xc9x-jj77-9p9j
+    detected_date: Feb 6
+    severity: moderate
+    first_patched: 1.16.2
 - name: omniauth-google-oauth2
   description: A Google OAuth2 strategy for OmniAuth 1.x
   package_url: https://rubygems.org/omniauth-google-oauth2
