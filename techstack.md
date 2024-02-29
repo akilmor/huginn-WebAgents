@@ -3,34 +3,34 @@
 ## Tech Stack
 akilmor/huginn-WebAgents is built on the following main stack:
 
-- [Amazon S3](http://aws.amazon.com/s3) – Cloud Storage
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- [Heroku](https://www.heroku.com) – Platform as a Service
-- [Capistrano](http://capistranorb.com/) – Server Configuration and Automation
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
-- [Python](https://www.python.org) – Languages
+- [Select2](https://select2.github.io/) – Javascript UI Libraries
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Amazon S3](http://aws.amazon.com/s3) – Cloud Storage
+- [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
 - [MySQL](http://www.mysql.com) – Databases
 - [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Bundler](http://bundler.io) – Front End Package Manager
+- [Capistrano](http://capistranorb.com/) – Server Configuration and Automation
+- [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [LiveReload](http://livereload.com) – Live Reloading
 - [Puma](http://puma.io/) – Web Servers
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [RSpec](https://rspec.info/) – Testing Frameworks
+- [Rails Spring](https://github.com/rails/spring) – Rails Testing
+- [RuboCop](http://batsov.com/rubocop/) – Code Review
+- [Heroku](https://www.heroku.com) – Platform as a Service
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
 - [OmniAuth](https://github.com/intridea/omniauth) – User Management and Authentication
-- [Rails Spring](https://github.com/rails/spring) – Rails Testing
-- [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
-- [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
-- [RSpec](https://rspec.info/) – Testing Frameworks
-- [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- [LiveReload](http://livereload.com) – Live Reloading
-- [RuboCop](http://batsov.com/rubocop/) – Code Review
-- [Bundler](http://bundler.io) – Front End Package Manager
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
-- [Select2](https://select2.github.io/) – Javascript UI Libraries
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -40,34 +40,34 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 akilmor/huginn-WebAgents is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/25/amazon-s3.png' alt='Amazon S3'/> [Amazon S3](http://aws.amazon.com/s3) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/661/5da4e1d78e930197cb7dc002ceafdfda.png' alt='Capistrano'/> [Capistrano](http://capistranorb.com/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1746/no-img-open-source.png' alt='Liquid'/> [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/7488/select2.png' alt='Select2'/> [Select2](https://select2.github.io/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/25/amazon-s3.png' alt='Amazon S3'/> [Amazon S3](http://aws.amazon.com/s3) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png' alt='Cloud DB for Mysql'/> [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2988/4e77LXIo_400x400.png' alt='Bundler'/> [Bundler](http://bundler.io) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/661/5da4e1d78e930197cb7dc002ceafdfda.png' alt='Capistrano'/> [Capistrano](http://capistranorb.com/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
 - <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Rails Spring'/> [Rails Spring](https://github.com/rails/spring) – Rails Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - <img width='25' height='25' src='https://img.stackshare.io/service/1432/devise.png' alt='Devise'/> [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
 - <img width='25' height='25' src='https://img.stackshare.io/service/1433/omniauth.png' alt='OmniAuth'/> [OmniAuth](https://github.com/intridea/omniauth) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Rails Spring'/> [Rails Spring](https://github.com/rails/spring) – Rails Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1746/no-img-open-source.png' alt='Liquid'/> [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png' alt='UglifyJS'/> [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
-- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/2988/4e77LXIo_400x400.png' alt='Bundler'/> [Bundler](http://bundler.io) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
-- <img width='25' height='25' src='https://img.stackshare.io/service/7488/select2.png' alt='Select2'/> [Select2](https://select2.github.io/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png' alt='Cloud DB for Mysql'/> [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png' alt='UglifyJS'/> [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -78,7 +78,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akilmor/huginn-WebAgents](https://github.com/akilmor/huginn-WebAgents)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|119<br/>Tools used|01/14/24 <br/>Report generated|
+|119<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -460,7 +460,7 @@ Full tech stack [here](/techstack.md)
 |[multi_xml](https://rubygems.org/multi_xml)|v0.6.0|03/29/16|Tom König |MIT|N/A|
 |[mysql2](https://rubygems.org/mysql2)|v0.5.5|10/29/22|Akinori MUSHA |MIT|N/A|
 |[net-ftp-list](https://rubygems.org/net-ftp-list)|v3.3.0|04/16/23|Akinori MUSHA |MIT|N/A|
-|[nokogiri](https://rubygems.org/nokogiri)|v1.15.2|02/29/20|Dominik Sander |MIT|N/A|
+|[nokogiri](https://rubygems.org/nokogiri)|v1.15.2|02/29/20|Dominik Sander |MIT|[](https://github.com/advisories/GHSA-xc9x-jj77-9p9j) (Moderate)|
 |[omniauth-google-oauth2](https://rubygems.org/omniauth-google-oauth2)|v1.0.1|04/16/23|Akinori MUSHA |MIT|N/A|
 |[omniauth-twitter](https://rubygems.org/omniauth-twitter)|v1.4.0|04/16/23|Akinori MUSHA |MIT|N/A|
 |[pg](https://rubygems.org/pg)|v1.5.3|03/10/13|Andrew Cantino |BSD-2-Clause|N/A|
